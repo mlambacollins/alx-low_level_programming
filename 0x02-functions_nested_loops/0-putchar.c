@@ -1,10 +1,4 @@
-#include "main.h"
-/**
- * main - print _putchar
- * is written by mbah
- * Return: 0
- */
-
+#include <stdio.h>
 
 int main(void)
 {
