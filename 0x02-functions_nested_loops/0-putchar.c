@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("_putchar\n");
+	// This is a single-line comment
+	printf("_putchar\n"); // This prints "_putchar" to the console
 	return (0);
 }
