@@ -1,8 +1,13 @@
 #include <stdio.h>
+/**
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
+
 
 int main(void)
 {
-	// This is a single-line comment
-	printf("_putchar\n"); // This prints "_putchar" to the console
+	printf("_putchar\n"); 
 	return (0);
 }
